@@ -1,0 +1,2 @@
+Library Management System Mini Project
+This file is created for Software Engineering Lab – Version Control Practice.
