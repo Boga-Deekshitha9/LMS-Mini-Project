@@ -1,3 +1,4 @@
 Library Management System Mini Project
 This file is created for Software Engineering Lab – Version Control Practice.
 New feature added: Online Book Reservation
+Feature added: SMS Notification System
